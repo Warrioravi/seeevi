@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/seevi/static/css/main.5e140745.chunk.css",
+    "main.js": "/seevi/static/js/main.79252c2a.chunk.js",
+    "main.js.map": "/seevi/static/js/main.79252c2a.chunk.js.map",
+    "runtime-main.js": "/seevi/static/js/runtime-main.196f692d.js",
+    "runtime-main.js.map": "/seevi/static/js/runtime-main.196f692d.js.map",
+    "static/js/2.fc167763.chunk.js": "/seevi/static/js/2.fc167763.chunk.js",
+    "static/js/2.fc167763.chunk.js.map": "/seevi/static/js/2.fc167763.chunk.js.map",
+    "index.html": "/seevi/index.html",
+    "static/css/main.5e140745.chunk.css.map": "/seevi/static/css/main.5e140745.chunk.css.map",
+    "static/js/2.fc167763.chunk.js.LICENSE.txt": "/seevi/static/js/2.fc167763.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.196f692d.js",
+    "static/js/2.fc167763.chunk.js",
+    "static/css/main.5e140745.chunk.css",
+    "static/js/main.79252c2a.chunk.js"
+  ]
+}
