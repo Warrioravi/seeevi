@@ -1,4 +1,4 @@
-#A resume builder app using create-react-app
+# A resume builder app using create-react-app
 
-#tech stack
+### tech stack
 react, redux
