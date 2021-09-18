@@ -35,12 +35,12 @@ let Landing=()=>{
       <div className="main-content">
           
           <div className="resume-card">
-              <img id="main-image" src="http://localhost:3000/resume-animation.svg"   alt="" />
+              <img id="main-image" src="https://seevi.herokuapp.com/resume-animation.svg"   alt="" />
               <div className="card-content">
                   <div className="card-icons">
-                  <div><img src="http://localhost:3000/user.png"   alt="" /></div>
-                  <div><img src="http://localhost:3000/certificate.png"   alt="" /></div>
-                  <div><img src="http://localhost:3000/portfolio.png"   alt="" /></div>
+                  <div><img src="https://seevi.herokuapp.com/user.png"   alt="" /></div>
+                  <div><img src="https://seevi.herokuapp.com/certificate.png"   alt="" /></div>
+                  <div><img src="https://seevi.herokuapp.com/portfolio.png"   alt="" /></div>
                </div>
                   <div className="card-lines">
                   <div></div>
