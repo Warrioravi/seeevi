@@ -24,12 +24,8 @@ let Landing=()=>{
           <h1>SEEWE</h1>
         <div className="header-links">
         <div>Templates</div>
-        <div onClick={()=>{
-                history.push("/login")
-            }}>Login</div>
-        <div onClick={()=>{
-                history.push("/login")
-            }}>My Account</div>
+        <div>Login</div>
+        <div>My Account</div>
         </div>
       </div>
       <div className="main-content">
